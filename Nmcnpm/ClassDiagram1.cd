@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nhom5.StartScreen">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAiIAAAAAIACAAAADAAAAAAAAQBAAAAAAAAA=</HashCode>
+      <FileName>StartScreen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="loginUC1" />
+      <Field Name="signUpUC1" />
+      <Field Name="resetPassUC1" />
+      <Field Name="forgetPassUC1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Nhom5.SecondScreen">
+    <Position X="10" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAICACAFCAEEAIAAgCACAACgBECDoSAUOYAGAABQAA=</HashCode>
+      <FileName>SecondScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.ForgetPassUC">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAABADgAgKAAAAAgIACAAAgCAAAQAAACAAACAxFCAAQ=</HashCode>
+      <FileName>View\login_signup\ForgetPassUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.ResetPassUC" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAARAjgAACAAAAAgIACgEAgGAAAQIAACBEACAxFHAAQ=</HashCode>
+      <FileName>View\login_signup\ResetPassUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.SignUpUC" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAABADgAACAAAAAgIACgAAgCAAAQAAACAAAiAxFCAAQ=</HashCode>
+      <FileName>View\login_signup\SignUpUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.LoginUC" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAARASAAQSAAAgEgIACAAAACAAEQACAAAAAgARFAAAA=</HashCode>
+      <FileName>View\login_signup\LoginUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

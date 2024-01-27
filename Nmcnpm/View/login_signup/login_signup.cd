@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nhom5.View.login_signup.LoginUC">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAARACAAQSAAAgEgIACAAAACAAEQACAAAAAgARFAAAA=</HashCode>
+      <FileName>View\login_signup\LoginUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.ResetPassUC">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>RAARAjgAACAAAAAgIACgEAgCAAAQIAACBEACAxFHAAQ=</HashCode>
+      <FileName>View\login_signup\ResetPassUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.SignUpUC">
+    <Position X="6.75" Y="1.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>RAABADgAACAAAAAgIACAAAgCAAAQAAACAAAiAxFCAAQ=</HashCode>
+      <FileName>View\login_signup\SignUpUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nhom5.View.login_signup.ForgetPassUC">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>RAABADgAgCAAAAAgIACAAAgCAAAQAAACAAACAxFCAAQ=</HashCode>
+      <FileName>View\login_signup\ForgetPassUC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
